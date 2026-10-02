@@ -1,0 +1,105 @@
+source_mat_id_orig,samp_description,tax_id,scientific_name,investigation_type,env_material,collection_date,sampling_event,sampl_person,sampl_person_orcid,tidal_stage,comm_samp,noteworthy_env_cond,replicate,size_frac_low,size_frac_up,depth,samp_collect_device,samp_mat_process,samp_mat_process_dev,samp_store_date,samp_store_loc,samp_store_temp,store_person,store_person_orcid,other_person,other_person_orcid,long_store,samp_size_mass,ship_date,arr_date_hq,store_temp_hq,ship_date_seq,arr_date_seq,seq_batch,failure,failure_comment,ENA_accession_number_sample,source_mat_id
+EMOBON-210701-330-SoSOP3-Meio-R1,EMOBON mimarks-specimen sediment sample from station TestObs collected on 2021-07-01 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2021-07-01 00:00:00,BPNS_So,Lara Macheriotou,0000-0002-5662-5689,ebb_tide,meio,,1,<32,NA,23.09,Van Veen Grab,SoSOP3,NA,2021-07-01 00:00:00,"UGent MarBiol Freezer #4, Box#61",-20,Lara Macheriotou,0000-0002-5662-5689,Annelien Rigaux,NA,N,340,2021-12-01 00:00:00,2021-12-03 00:00:00,-20,2023-06-01 00:00:00,2023-06-01 00:00:00,batch_3,F,NA,,EMOBON_BPNS_So_1
+EMOBON-210701-330-SoSOP3-Meio-R2,EMOBON mimarks-specimen sediment sample from station TestObs collected on 2021-07-01 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2021-07-01 00:00:00,BPNS_Wa_210701,Lara Macheriotou,0000-0002-5662-5689,ebb_tide,meio,,2,>32,NA,23.09 - 45,Van Veen Grab,SoSOP3,NA,2021-07-01 00:00:00,"UGent MarBiol Freezer #4, Box#61",-20,Lara Macheriotou,0000-0002-5662-5689,Annelien Rigaux,NA,N,470,2021-12-01 00:00:00,2021-12-03 00:00:00,-20,2023-06-01 00:00:00,2023-06-01 00:00:00,batch_3,F,NA,,EMOBON_BPNS_So_2
+EMOBON-210701-330-SoSOP3-Meio-R3,EMOBON mimarks-specimen sediment sample from station TestObs collected on 2021-07-01 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2021-07-01 00:00:00,BPNS_So_211001,Lara Macheriotou,0000-0002-5662-5689,ebb_tide,meio,,3,32,NA,>23.09,Van Veen Grab,SoSOP3,NA,2021-07-01 00:00:00,"UGent MarBiol Freezer #4, Box#61",-20,Lara Macheriotou,0000-0002-5662-5689,Annelien Rigaux,NA,Y,405,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_3
+EMOBON-210701-330-SoSOP3-Meio-R4,EMOBON mimarks-specimen sediment sample from station TestObs collected on 2021-07-01 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2021-07-01 00:00:00,BPNS_So_210701,Lara Macheriotou,0000-0002-5662-5689,ebb_tide,meio,,4,32,NA,<23.09,Van Veen Grab,SoSOP3,NA,2021-07-01 00:00:00,"UGent MarBiol Freezer #4, Box#61",-20,Lara Macheriotou,0000-0002-5662-5689,Annelien Rigaux,NA,Y,300,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_4
+EMOBON-210726-330-SoSOP3-Micro-R1,EMOBON metagenome sediment sample from station TestObs collected on 2021-07-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-07-26 00:00:00,BPNS_So_210726,Jonas Mortelmans,0000-0002-8781-7915,flood_tide,micro,,1,NA,NA,> 22.94,Van Veen Grab,SoSOP3,NA,2021-07-26 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Jonas Mortelmans,0000-0002-8781-7915,NA,NA,N,NA,2021-10-05 00:00:00,2021-10-08 00:00:00,-70,2021-11-24 00:00:00,2021-11-24 00:00:00,batch_1,F,NA,ERS16590019,EMOBON_BPNS_So_5
+EMOBON-210726-330-SoSOP3-Micro-R2,EMOBON metagenome sediment sample from station TestObs collected on 2021-07-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-07-26 00:00:00, ,Jonas Mortelmans,0000-0002-8781-7915,flood_tide,micro,,2,NA,NA,< 22.94,Van Veen Grab,SoSOP3,NA,2021-07-26 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Jonas Mortelmans,0000-0002-8781-7915,NA,NA,N,NA,2021-10-05 00:00:00,2021-10-08 00:00:00,-70,2021-11-24 00:00:00,2021-11-24 00:00:00,batch_1,F,NA,ERS16590020,EMOBON_BPNS_So_6
+EMOBON-210726-330-SoSOP3-Micro-R3,EMOBON metagenome sediment sample from station TestObs collected on 2021-07-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-07-26 00:00:00, ,Jonas Mortelmans,0000-0002-8781-7915,flood_tide,micro,,3,NA,NA,22.94,Van Veen Grab,SoSOP3,NA,2021-07-26 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Jonas Mortelmans,0000-0002-8781-7915,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_7
+EMOBON-210726-330-SoSOP3-Micro-R4,EMOBON metagenome sediment sample from station TestObs collected on 2021-07-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-07-26 00:00:00,BPNS_So_210726,Jonas Mortelmans,0000-0002-8781-7915,flood_tide,micro,,4,NA,NA,22.94,Van Veen Grab,SoSOP3,NA,2021-07-26 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Jonas Mortelmans,0000-0002-8781-7915,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_8
+EMOBON-210726-330-SoSOP3-Micro-B1,EMOBON metagenome sediment sample from station TestObs collected on 2021-07-26 community collected micro,256318,metagenome,metagenome,sediment [ENVO:00002007],2021-07-26 00:00:00,BPNS_So_210726,Jonas Mortelmans,0000-0002-8781-7915,NA,micro,,blank_1,NA,NA,22.94,NA,SoSOP3,NA,2021-07-26 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Jonas Mortelmans,0000-0002-8781-7915,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_9
+EMOBON-210726-330-SoSOP3-Micro-B2,EMOBON metagenome sediment sample from station TestObs collected on 2021-07-26 community collected micro,256318,metagenome,metagenome,sediment [ENVO:00002007],2021-07-26 00:00:00,BPNS_So_210726,Jonas Mortelmans,0000-0002-8781-7915,NA,micro,,blank_2,NA,NA,22.94,NA,SoSOP3,NA,2021-07-26 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Jonas Mortelmans,0000-0002-8781-7915,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_10
+EMOBON-210825-330-SoSOP3-Micro-R1,EMOBON metagenome sediment sample from station TestObs collected on 2021-08-25 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-08-25 00:00:00,BPNS_So_210825,Sander Delacauw,0000-0002-5400-2891,ebb_tide,micro,,1,NA,NA,20.54,Van Veen Grab,SoSOP3,Tube broke,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,T,tube broke,NA,EMOBON_BPNS_So_11
+EMOBON-210825-330-SoSOP3-Micro-R2,EMOBON metagenome sediment sample from station TestObs collected on 2021-08-25 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-08-25 00:00:00,BPNS_So_210825,Sander Delacauw,0000-0002-5400-2891,ebb_tide,micro,,2,NA,NA,20.54,Van Veen Grab,SoSOP3,NA,2021-08-25 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Sander Delacauw,0000-0002-5400-2891,Rune Lagaisse,0000-0001-9191-9140,N,NA,2021-10-05 00:00:00,2021-10-08 00:00:00,-70,2021-11-24 00:00:00,2021-11-24 00:00:00,batch_1,T,low yields; seq library prep failed,NA,EMOBON_BPNS_So_12
+EMOBON-210825-330-SoSOP3-Micro-R3,EMOBON metagenome sediment sample from station TestObs collected on 2021-08-25 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-08-25 00:00:00,BPNS_So_210825,Sander Delacauw,0000-0002-5400-2891,ebb_tide,micro,,3,NA,NA,20.54,Van Veen Grab,SoSOP3,NA,2021-08-25 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Sander Delacauw,0000-0002-5400-2891,Rune Lagaisse,0000-0001-9191-9140,Y,NA,2021-10-05 00:00:00,2021-10-08 00:00:00,-70,2021-11-24 00:00:00,2021-11-24 00:00:00,batch_1,F,NA,ERS15538559,EMOBON_BPNS_So_13
+EMOBON-210825-330-SoSOP3-Micro-R4,EMOBON metagenome sediment sample from station TestObs collected on 2021-08-25 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2021-08-25 00:00:00,BPNS_So_210825,Sander Delacauw,0000-0002-5400-2891,ebb_tide,micro,,4,NA,NA,20.54,Van Veen Grab,SoSOP3,NA,2021-08-25 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Sander Delacauw,0000-0002-5400-2891,Rune Lagaisse,0000-0001-9191-9140,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_14
+EMOBON-210825-330-SoSOP3-Micro-B1,EMOBON metagenome sediment sample from station TestObs collected on 2021-08-25 community collected micro,256318,metagenome,metagenome,sediment [ENVO:00002007],2021-08-25 00:00:00,BPNS_So_210825,Sander Delacauw,0000-0002-5400-2891,NA,micro,,blank_1,NA,NA,20.54,NA,SoSOP3,NA,2021-08-25 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Sander Delacauw,0000-0002-5400-2891,Rune Lagaisse,0000-0001-9191-9140,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_15
+EMOBON-210825-330-SoSOP3-Micro-B2,EMOBON metagenome sediment sample from station TestObs collected on 2021-08-25 community collected micro,256318,metagenome,metagenome,sediment [ENVO:00002007],2021-08-25 00:00:00,BPNS_So_210825,Sander Delacauw,0000-0002-5400-2891,NA,micro,,blank_2,NA,NA,20.54,NA,SoSOP3,NA,2021-08-25 00:00:00,MSO LifeWatch Lab -80 Freezer,-80,Sander Delacauw,0000-0002-5400-2891,Rune Lagaisse,0000-0001-9191-9140,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_BPNS_So_16
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_255
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_256
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_257
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_258
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_259
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_260
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_261
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_262
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_263
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_264
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_265
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_266
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_267
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_268
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_269
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_270
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_271
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_272
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_273
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_274
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_275
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_276
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_277
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_278
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_279
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_280
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_281
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_282
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_283
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_284
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_285
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_286
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_287
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_288
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_289
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_290
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_291
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_292
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_293
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_294
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_295
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_296
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_297
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_298
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_299
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_300
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_301
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_303
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_304
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_305
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_306
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_307
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_308
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_309
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_310
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_311
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_312
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_313
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_314
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_315
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_316
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_317
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_318
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_319
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_320
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_321
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_322
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_323
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_324
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_325
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_326
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_327
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_328
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_329
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_330
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_331
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_332
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_333
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_334
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_335
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_337
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_338
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_339
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_340
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_341
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_BPNS_So_342

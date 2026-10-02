@@ -1,2 +1,1 @@
-# observatory-testobs-crate
-EMO BON test observatory (TestObs) for testing the logsheet pipeline
+# vliz-be-opsci/observatory-testobs-crate
